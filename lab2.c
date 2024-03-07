@@ -20,3 +20,5 @@ int main(){
 	return 0;
 }
 
+//am modificat tot codu gaseste greseala :))
+
